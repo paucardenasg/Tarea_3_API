@@ -1,5 +1,5 @@
 # Tarea_3_API
-Este repositorio contiene la tarea 3 de la materia Proyecto de Ingeniería de Datos. Además de este archivo README.md, el repositorio contiene un archivo de Python con el código para la API y un archivo de texto con los requisitos necesarios para ejecutar el código correctamente.
+Este repositorio contiene la tarea 3 de la materia Proyecto de Ciencia de Datos. Además de este archivo README.md, el repositorio contiene un archivo de Python con el código para la API y un archivo de texto con los requisitos necesarios para ejecutar el código correctamente.
 
 Se siguieron las instrucciones a continuación:
 + Crear una nueva API, la cual contenga cuatro *endpoints* con las siguientes consideraciones:
